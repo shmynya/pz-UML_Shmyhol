@@ -2,6 +2,7 @@
 Курсант: Шмиголь Олександра
 
 ## 1. Use Case Diagram
+
 ```mermaid
 usecaseDiagram
     actor Op as "Оператор БПЛА"
