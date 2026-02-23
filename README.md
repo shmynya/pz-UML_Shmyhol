@@ -1,7 +1,6 @@
 # Практична робота pz-UML
 
-```mermaid
-useCaseDiagram
+usecaseDiagram
     actor "Оператор БПЛА" as Op
     actor "Аналітик" as An
     actor "Командир" as Com
